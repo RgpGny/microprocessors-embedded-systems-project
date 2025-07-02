@@ -150,8 +150,8 @@ This project demonstrates:
 
 ## 👥 Contributors
 
-- **Ragıp Günay** - Student ID: 200316007
-- **Duygu Kamalak** - Student ID: 200316046
+- **Ragıp Günay** - ragipgunay09@gmail.com
+- **Duygu Kamalak** - duygukamaalak@gmail.com
 
 ## 📝 Documentation
 
