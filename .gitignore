@@ -1,0 +1,67 @@
+# PIC Assembly Project .gitignore
+
+# Compiled object files
+*.o
+*.obj
+*.O
+
+# Compiled hex files (comment out if you want to include them)
+# *.hex
+# *.HEX
+
+# Assembly listing files
+*.lst
+*.LST
+
+# Map files
+*.map
+*.MAP
+
+# Error files
+*.err
+*.ERR
+
+# MPLAB generated files
+*.cof
+*.COF
+*.mcp
+*.mcs
+*.mcw
+*.MCP
+*.MCS
+*.MCW
+
+# Proteus workspace files
+*.workspace
+*.pdsprj.DESKTOP-*.workspace
+
+# Project backup files
+Project\ Backups/
+*/Project\ Backups/
+
+# Windows specific files
+Thumbs.db
+Desktop.ini
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Log files
+*.log
+
+# IDE specific files
+*.workspace
+*.prjx
+*.mcp
+*.mcw
+
+# Simulation files (optional - uncomment if you don't want to track them)
+# *.dsn
+# *.pdsprj 
